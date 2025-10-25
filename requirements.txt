@@ -1,0 +1,12 @@
+Flask==3.0.3
+flasgger==0.9.7b2
+prometheus-flask-exporter==0.23.1
+python-consul==1.1.0
+opentelemetry-sdk==1.28.0
+opentelemetry-exporter-zipkin==1.28.0
+opentelemetry-instrumentation-flask==0.49b0
+python-decouple==3.8
+requests==2.32.3
+gunicorn==23.0.0
+uvicorn==0.32.0
+asgiref
